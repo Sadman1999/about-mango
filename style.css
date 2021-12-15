@@ -22,20 +22,20 @@ section h2 {
 }
 
 .btn {
-  background-color: #5ee0f1;
+  background-color: #FBF6D9;
   border-radius: 5px;
   box-shadow: 2px 2px #8a7400;
   color: black;
   display: inline-block;
   font-size: 15px;
-  padding: 8px 25px;
+  padding: 8px 5px;
   text-decoration: none;
   position: relative;
   transition: all 0.1s ease;
 }
 
 .btn2{
-  background-color: #00c8ec;
+  background-color: #E238EC;
   
   
 }
@@ -49,10 +49,10 @@ section h2 {
 }
 
 body {
-    background: lightgray;
-  font-family: "Roboto", sans-serif;
-  margin:80px 0 0;
-  line-height: 1.5;
+    background: #9172EC;
+    font-family: "Roboto", sans-serif;
+    margin:80px 0 0;
+    line-height: 1.5;
   
 }
 
@@ -111,6 +111,7 @@ nav {
 .feature{
   border-radius: 10px;
   box-shadow: 3px 3px 11px rgba(0,0,0, 0.3);
+  background: #F4BB44;
   margin: 30px 1.66%;
   padding: 10px;
   width: 33.33%;
@@ -186,14 +187,18 @@ footer {
   text-align: center;
 }
   
-  .header-left h1 {
+.header-left h1 {
     display: none;
-  }
+}
   
-  .feature {
+.feature {
     margin: 10px;
     width: 100%;
-  }
+}
   
   
-  }
+}
+
+.footerr {
+    background: #800080;
+}
